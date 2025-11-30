@@ -18,7 +18,7 @@ The Fullstack Developer Path aims to teach you everything you need to become a J
 
 Happy Coding!
 
-# Project Utils
+# Project Link Utils
 - [GitHub](https://github.com/rooster972/Scrim-s03tqlm--SoloProject)
 - [Figma](https://www.figma.com/design/53zEFCZB7spbfn53S2zSH7/Movie-Watchlist?t=tLxqJYwG803NcyHn-0)
 - [Netlify Url](https://irooster972-moovie-watchlist.netlify.app/)
